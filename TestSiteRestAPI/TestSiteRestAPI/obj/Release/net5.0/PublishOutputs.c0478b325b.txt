@@ -1,0 +1,13 @@
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\TestSiteAgain\TestSiteRestAPI\TestSiteRestAPI\obj\Release\net5.0\PubTmp\Out\TestSiteRestAPI.exe
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\TestSiteAgain\TestSiteRestAPI\TestSiteRestAPI\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\TestSiteAgain\TestSiteRestAPI\TestSiteRestAPI\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\TestSiteAgain\TestSiteRestAPI\TestSiteRestAPI\obj\Release\net5.0\PubTmp\Out\TestSiteRestAPI.dll
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\TestSiteAgain\TestSiteRestAPI\TestSiteRestAPI\obj\Release\net5.0\PubTmp\Out\TestSiteRestAPI.deps.json
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\TestSiteAgain\TestSiteRestAPI\TestSiteRestAPI\obj\Release\net5.0\PubTmp\Out\TestSiteRestAPI.runtimeconfig.json
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\TestSiteAgain\TestSiteRestAPI\TestSiteRestAPI\obj\Release\net5.0\PubTmp\Out\TestSiteRestAPI.pdb
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\TestSiteAgain\TestSiteRestAPI\TestSiteRestAPI\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\TestSiteAgain\TestSiteRestAPI\TestSiteRestAPI\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\TestSiteAgain\TestSiteRestAPI\TestSiteRestAPI\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\TestSiteAgain\TestSiteRestAPI\TestSiteRestAPI\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\TestSiteAgain\TestSiteRestAPI\TestSiteRestAPI\obj\Release\net5.0\PubTmp\Out\TestSiteLib.dll
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\TestSiteAgain\TestSiteRestAPI\TestSiteRestAPI\obj\Release\net5.0\PubTmp\Out\TestSiteLib.pdb

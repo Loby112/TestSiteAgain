@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y5UvneTuvQ1IiB4sc+cjai8ZjZ0RK08GF8zdt7KsWjL47yCTsd/2gHkX1k+xsikJPVOO49oy5MTwEmPSd6ce4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lobyl\\Documents\\3. Semester\\TestPractice\\TestSiteAgain\\TestSiteRestAPI\\TestSiteRestAPI\\TestSiteRestAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lobyl\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Lobyl\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Lobyl\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Lobyl\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Lobyl\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Lobyl\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

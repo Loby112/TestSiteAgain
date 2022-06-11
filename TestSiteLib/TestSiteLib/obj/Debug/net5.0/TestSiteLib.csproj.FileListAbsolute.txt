@@ -1,0 +1,12 @@
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\TestSiteAgain\TestSiteLib\TestSiteLib\bin\Debug\net5.0\TestSiteLib.deps.json
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\TestSiteAgain\TestSiteLib\TestSiteLib\bin\Debug\net5.0\TestSiteLib.dll
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\TestSiteAgain\TestSiteLib\TestSiteLib\bin\Debug\net5.0\TestSiteLib.pdb
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\TestSiteAgain\TestSiteLib\TestSiteLib\obj\Debug\net5.0\TestSiteLib.csproj.AssemblyReference.cache
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\TestSiteAgain\TestSiteLib\TestSiteLib\obj\Debug\net5.0\TestSiteLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\TestSiteAgain\TestSiteLib\TestSiteLib\obj\Debug\net5.0\TestSiteLib.AssemblyInfoInputs.cache
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\TestSiteAgain\TestSiteLib\TestSiteLib\obj\Debug\net5.0\TestSiteLib.AssemblyInfo.cs
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\TestSiteAgain\TestSiteLib\TestSiteLib\obj\Debug\net5.0\TestSiteLib.csproj.CoreCompileInputs.cache
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\TestSiteAgain\TestSiteLib\TestSiteLib\obj\Debug\net5.0\TestSiteLib.dll
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\TestSiteAgain\TestSiteLib\TestSiteLib\obj\Debug\net5.0\refint\TestSiteLib.dll
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\TestSiteAgain\TestSiteLib\TestSiteLib\obj\Debug\net5.0\TestSiteLib.pdb
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\TestSiteAgain\TestSiteLib\TestSiteLib\obj\Debug\net5.0\ref\TestSiteLib.dll

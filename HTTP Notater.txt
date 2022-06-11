@@ -1,0 +1,10 @@
+HTTP Protocol
+Request: Sendes fra client til server
+Request line - Metode/URI/HTTP version
+Request Headers - Informationer f.eks sprog, content type (text, html)
+Mellemrum 
+Request Body - Additional info 
+
+Response: Sendes fra server tilbage til client
+Version, Status code
+Headers
