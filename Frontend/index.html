@@ -17,7 +17,9 @@
         <input v-model="filterWord" placeholder="Filter by name" type="text">
         <button @click="getAllTestsites(filterWord, sortWord)">Filter</button>
         <button @click="getAllTestsites(filterWord, 'name')">Sort by Name</button>
+        <button @click="jsSortByName()">Sort by NameJS</button>
         <button @click="getAllTestsites(filterWord, 'time')">Sort by Time</button>
+        <button @click="jsSortByTime()">Sort by TimeJS</button>
         <table class="table table-striped table-dark" v-if="testSites.length">
             <thead>
                 <tr>

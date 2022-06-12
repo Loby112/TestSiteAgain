@@ -49,6 +49,16 @@ Vue.createApp({
             }
         },
 
+        jsSortByName(){
+            this.testSites.sort((testsite1, testsite2) => testsite1.name.localeCompare(testsite2.name))
+        },
+
+        jsSortByTime(){
+            this.testSites.sort((testsite1, testsite2) => testsite1.waitingTime - testsite2.waitingTime)
+        }
+        
+        
+
 
     }
 
